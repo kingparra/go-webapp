@@ -1,3 +1,3 @@
-module bookings-udemy
+module github.com/kingparra/go-webapp
 
-go 1.15
+go 1.20
